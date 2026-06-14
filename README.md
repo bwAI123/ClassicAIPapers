@@ -10,6 +10,7 @@
 
 **01. AlexNet** — ImageNet Classification with Deep Convolutional Neural Networks (2012)
 - 论文链接：[https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)
+- PDF下载：[pdf](https://papers.nips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
 
 **02. VGGNet** — Very Deep Convolutional Networks for Large-Scale Image Recognition (2014)
 - 论文链接：[https://arxiv.org/abs/1409.1556](https://arxiv.org/abs/1409.1556)
@@ -59,7 +60,7 @@
 
 ## 自然语言处理
 
-**11. Attention Is All You Need** — The Transformer Architecture (2017)
+**11. Transformer** — Attention Is All You Need (2017)
 - 论文链接：[https://arxiv.org/abs/1706.03762](https://arxiv.org/abs/1706.03762)
 - arXiv编号：`arXiv:1706.03762`
 - PDF下载：[https://arxiv.org/pdf/1706.03762.pdf](https://arxiv.org/pdf/1706.03762.pdf)
@@ -189,6 +190,7 @@
 
 **35. AlphaGo** — Mastering the Game of Go with Deep Neural Networks and Tree Search (2016)
 - 论文链接：[https://www.nature.com/articles/nature16961](https://www.nature.com/articles/nature16961)
+- PDF下载：[pdf](https://www.nature.com/articles/nature16961.pdf)
 
 **36. PPO** — Proximal Policy Optimization Algorithms (2017)
 - 论文链接：[https://arxiv.org/abs/1707.06347](https://arxiv.org/abs/1707.06347)
